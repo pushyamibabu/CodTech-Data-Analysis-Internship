@@ -23,6 +23,28 @@ The project demonstrates the complete data analysis workflow including data prep
 
 ---
 
+
+## 📸 Dashboard Preview
+![Dashboard](dashboard of task3.png)
+
+---
+
+## 📁 Tasks Completed
+
+### 🔹 Task 1: Exploratory Data Analysis (EDA)
+- Cleaned and preprocessed dataset  
+- Performed statistical analysis  
+- Created visualizations to identify patterns  
+
+### 🔹 Task 2: Machine Learning
+- Built a regression model  
+- Trained and tested using dataset  
+- Evaluated model performance  
+
+### 🔹 Task 3: Dashboard Development
+- Designed interactive dashboard using Tableau  
+- Combined multiple visualizations for insights  
+
 ## 📊 Dashboard Overview
 
 The dashboard provides a comprehensive analysis of ride data using different types of visualizations:
@@ -42,29 +64,6 @@ The dashboard provides a comprehensive analysis of ride data using different typ
 ### 🔹 Booking Value Contribution (Pie Chart)
 - Represents contribution of each vehicle type to total booking value  
 - Helps understand which categories generate higher value  
-
----
-
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
----
-
-## 📁 Tasks Completed
-
-### 🔹 Task 1: Exploratory Data Analysis (EDA)
-- Cleaned and preprocessed dataset  
-- Performed statistical analysis  
-- Created visualizations to identify patterns  
-
-### 🔹 Task 2: Machine Learning
-- Built a regression model  
-- Trained and tested using dataset  
-- Evaluated model performance  
-
-### 🔹 Task 3: Dashboard Development
-- Designed interactive dashboard using Tableau  
-- Combined multiple visualizations for insights  
 
 ### 🔹 Task 4: Sentiment Analysis
 - Analyzed text data using NLP  
