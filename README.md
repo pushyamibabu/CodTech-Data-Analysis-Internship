@@ -82,13 +82,3 @@ The project demonstrates the complete data analysis workflow including data prep
 This project provided hands-on experience in analyzing real-world data and building meaningful insights through visualization and machine learning.
 
 It helped in understanding the complete data analysis pipeline and improved skills in Python, data visualization, and analytical thinking.
-
----
-
-## 🔗 GitHub Repository
-👉 https://github.com/pushyamibabu/CodTech-Data-Analysis-Internship
-
----
-
-## 🙌 Acknowledgment
-I would like to thank CodTech for providing this internship opportunity and helping me enhance my practical knowledge in data analysis.
