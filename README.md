@@ -59,7 +59,7 @@ The project demonstrates the complete data analysis workflow including data prep
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard of task3.png)
+![Dashboard](dashboard.png)
 
 ---
 
