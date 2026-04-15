@@ -23,12 +23,6 @@ The project demonstrates the complete data analysis workflow including data prep
 
 ---
 
-
-## 📸 Dashboard Preview
-![Dashboard](dashboard of task3.png)
-
----
-
 ## 📁 Tasks Completed
 
 ### 🔹 Task 1: Exploratory Data Analysis (EDA)
@@ -36,38 +30,43 @@ The project demonstrates the complete data analysis workflow including data prep
 - Performed statistical analysis  
 - Created visualizations to identify patterns  
 
+---
+
 ### 🔹 Task 2: Machine Learning
 - Built a regression model  
-- Trained and tested using dataset  
+- Split dataset into training and testing sets  
+- Trained model using Linear Regression  
 - Evaluated model performance  
+
+---
 
 ### 🔹 Task 3: Dashboard Development
 - Designed interactive dashboard using Tableau  
-- Combined multiple visualizations for insights  
+- Created multiple visualizations including:
 
-## 📊 Dashboard Overview
+  - **Booking by Vehicle Type (Horizontal Bar Chart)**  
+    → Identifies most preferred vehicle categories  
 
-The dashboard provides a comprehensive analysis of ride data using different types of visualizations:
+  - **Rides by Time Slot (Bar Chart)**  
+    → Shows peak demand periods  
 
-### 🔹 Booking by Vehicle Type (Horizontal Bar Chart)
-- Shows the number of rides for each vehicle type  
-- Helps identify most preferred vehicle categories  
+  - **Ride Distance Distribution (Histogram)**  
+    → Indicates that most rides are short-distance  
 
-### 🔹 Rides by Time Slot (Bar Chart)
-- Displays ride distribution across different time periods  
-- Helps identify peak demand hours  
+  - **Booking Value Contribution by Vehicle Type (Pie Chart)**  
+    → Shows contribution of each vehicle type to total booking value  
 
-### 🔹 Ride Distance Distribution (Histogram)
-- Shows frequency of rides based on distance  
-- Indicates that most rides are short-distance  
+---
 
-### 🔹 Booking Value Contribution (Pie Chart)
-- Represents contribution of each vehicle type to total booking value  
-- Helps understand which categories generate higher value  
+## 📸 Dashboard Preview
+![Dashboard](dashboard of task3.png)
+
+---
 
 ### 🔹 Task 4: Sentiment Analysis
-- Analyzed text data using NLP  
-- Classified sentiments as Positive, Negative, Neutral  
+- Performed sentiment analysis on text data  
+- Used TextBlob for polarity detection  
+- Classified reviews as Positive, Negative, and Neutral  
 
 ---
 
@@ -82,4 +81,14 @@ The dashboard provides a comprehensive analysis of ride data using different typ
 ## 🎯 Conclusion
 This project provided hands-on experience in analyzing real-world data and building meaningful insights through visualization and machine learning.
 
-It helped in understanding the complete data analysis pipeline and improved skills in Python, data visualization, and analytical thinking.git add .
+It helped in understanding the complete data analysis pipeline and improved skills in Python, data visualization, and analytical thinking.
+
+---
+
+## 🔗 GitHub Repository
+👉 https://github.com/pushyamibabu/CodTech-Data-Analysis-Internship
+
+---
+
+## 🙌 Acknowledgment
+I would like to thank CodTech for providing this internship opportunity and helping me enhance my practical knowledge in data analysis.
